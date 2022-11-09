@@ -1,6 +1,6 @@
-# medicalapp
+# travelapp
 
-A new Flutter project.
+Learning flutter, state management with bloc and cubit
 
 ## Getting Started
 
